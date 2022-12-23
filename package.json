@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-crash-course.git"
+    "url": "https://ahmedhoss22.github.io/Blog-app"
   },
   "author": "net ninja",
   "license": "ISC",
-  "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
+  "homepage": "https://ahmedhoss22.github.io/Blog-app/",
   "dependencies": {
     "ejs": "^3.1.2",
     "express": "^4.17.1",
